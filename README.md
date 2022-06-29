@@ -1,11 +1,19 @@
-# SmartSheets v0.0
+# MyApp v0.0
 
-### SmartSheets is a better way to store and share data
+### Built on:
+
+#### - React
+#### - Node
+#### - Express
+#### - Postgres
+
+##### *Heroku deployment ready*
+##### *Docker-compose ready*
 
 #
 
 ### **Version Notes:**
 ```
 v0.0 - Initialized Application
-    - Set up the framework to start building SmartSheets
+    - Set up the framework to start building
 ```
